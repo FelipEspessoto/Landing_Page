@@ -1,20 +1,15 @@
 👉 This is a Landing Page, an exercise to practice many things in HTML and CSS.<br>
 📄 Practices in @mediaQueries were also used to make the site as responsive as possible!<br>
-❕The image (1) represents the site used as an example and the following images (2, 3, 4, 5) are the ones taken.<br>
 <hr> 
+📌Image (1) - Original Layout
 
-📌Image (1) - Example used
-![image](https://github.com/FelipEspessoto/HTML-CSS/assets/98137286/cc631092-5d7e-4160-ba3d-68bd2a949326)
+![screenPrint3](https://github.com/FelipEspessoto/Landing_Page/assets/98137286/0e24f92c-0dbd-427f-9d7a-e74f26364f61)
 <hr> 
-📌Image (2) - Original Layout
+📌Image (2) - Tablet Layout
 
-![screenPrint3](https://github.com/FelipEspessoto/HTML-CSS/assets/98137286/b0ca1119-4b79-4d85-b804-3eb56047047f)
+![screenPrint2](https://github.com/FelipEspessoto/Landing_Page/assets/98137286/2545bf7c-813c-40bd-9b26-9b3a3d6fbc8c)
 <hr> 
-📌Image (3) - Tablet Layout
+📌Image (3) - Mobile Layout
 
-![screenPrint2](https://github.com/FelipEspessoto/HTML-CSS/assets/98137286/196f89f5-7503-40f8-a817-806392fd04b2)
-<hr> 
-📌Image (4) - Mobile Layout
-
-![screenPrint1](https://github.com/FelipEspessoto/HTML-CSS/assets/98137286/6d6723eb-3102-4d30-a8cd-58cf9815169b)
+![screenPrint1](https://github.com/FelipEspessoto/Landing_Page/assets/98137286/05a5cf7a-4647-4fe2-93aa-2e83624002cb)
 <hr> 
